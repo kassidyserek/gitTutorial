@@ -1,0 +1,3 @@
+echo "hello" >> myfile.txt
+echo ":)" >> myfile.txt
+
